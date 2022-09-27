@@ -1,4 +1,12 @@
-### Hi there 👋
+### Heisann! 👋
+
+Torodd her. Jobbar som lektor på Amalie Skram vgs. 
+
+🔭 Opptatt av programmering i skulen
+
+:game_die: Jobbar litt med **[Programmering i S-matte](https://lektorodd.github.io/S-matte/)**
+
+:volcano: Prøver stadig å finna nye modellering/programmeringsprosjekt til Geofag 1. 
 
 <!--
 **lektorodd/lektorodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
