@@ -1,6 +1,8 @@
 ### Heisann! 👋
 
-Torodd her. Jobbar som lektor på Amalie Skram vgs. 
+Torodd her :v: 
+
+👨‍🏫 Jobbar som lektor på Amalie Skram vgs. 
 
 🔭 Opptatt av programmering i skulen
 
