@@ -6,7 +6,7 @@ Torodd her :v:
 
 🔭 Interessert i programmering i skulen. På eit sånt nivå at eg har teke ein [master](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2766052) i emnet :sweat_smile:
 
-:game_die: Legg ut eit og anna **[blogginnlegg](https://lektorodd.no)** og eit kapittel i **[Pythonmatte](https://lektorodd.no/mattebok)** no og då... 
+:game_die: Legg ut eit og anna **[blogginnlegg](https://lektorodd.no)** og eit kapittel i **[Pythonmatte](https://lektorodd.github.io/mattebok)** no og då... 
 
 :volcano: Prøver stadig å finna nye modellering/programmeringsprosjekt til Geofag 1. 
 - :mag: [Jordskjelvplotting](https://github.com/lektorodd/Geofag-1/tree/main/Jordskjelvplotting)
