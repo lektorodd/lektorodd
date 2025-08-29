@@ -6,13 +6,9 @@ Torodd her :v:
 
 🔭 Interessert i programmering i skulen. På eit sånt nivå at eg har teke ein [master](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2766052) i emnet :sweat_smile:
 
-:game_die: Legg ut eit og anna **[blogginnlegg](https://lektorodd.no)** og eit kapittel i **[Pythonmatte](https://lektorodd.github.io/mattebok)** no og då... 
+:game_die: Legg ut eit og anna **[blogginnlegg](https://lektorodd.no/blogg.html)** og eit kapittel i **[Pythonmatte](https://lektorodd.github.io/mattebok)** no og då... 
 
-:volcano: Prøver stadig å finna nye modellering/programmeringsprosjekt til Geofag 1. 
-- :mag: [Jordskjelvplotting](https://github.com/lektorodd/Geofag-1/tree/main/Jordskjelvplotting)
-- :mag: [Vassføring](https://github.com/lektorodd/Geofag-1/tree/main/Hydrologi%20-%20vassf%C3%B8ring)
 
-📫 torodd@hey.com
 <!--
 **lektorodd/lektorodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
