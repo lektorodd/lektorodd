@@ -2,7 +2,7 @@
 
 Torodd her :v: 
 
-👨‍🏫 Jobbar som lektor på Amalie Skram vgs. 
+👨‍🏫 Jobbar som lektor på Amalie Skram vgs og KI-pedagog i Vestland fylkeskommune. 
 
 🔭 Interessert i programmering i skulen. På eit sånt nivå at eg har teke ein [master](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2766052) i emnet :sweat_smile:
 
